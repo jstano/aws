@@ -1,0 +1,5 @@
+encryptionsalt: v1:18HvZeHWa7A=:v1:WQ48LCtgaxEFeXEZ:6aMX93nF0fjnaQ0InpWNbZjvUgbWfw==
+config:
+  aws:region: us-east-2
+  vpc:accountId: "879794963570"
+  vpc:accountName: root

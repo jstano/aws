@@ -1,0 +1,5 @@
+encryptionsalt: v1:gd+Hjg08mgU=:v1:IU710IdBT87G96P7:bC1lILwVfXDSvvfUi4v6w/GaJ6FkNA==
+config:
+   aws:region: us-east-2
+   s3:accountId: "879794963570"
+   s3:bucketName: "stano.com"

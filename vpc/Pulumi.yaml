@@ -1,0 +1,12 @@
+name: vpc
+description: A module to manage a vpc
+runtime:
+   name: nodejs
+   options:
+      typescript: false
+      packagemanager: npm
+config:
+   pulumi:disable-default-providers: [ "aws" ]
+   pulumi:tags:
+      value:
+         pulumi:template: aws-typescript

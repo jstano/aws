@@ -1,0 +1,5 @@
+encryptionsalt: v1:LPRKOMc+/A0=:v1:OsPrajwHjId11hpl:B94U5pHF8z+kL7Bs/1BiPVOY/Q5njA==
+config:
+   aws:region: us-east-2
+   s3:accountId: "879794963570"
+   s3:bucketName: "wanderbooks"

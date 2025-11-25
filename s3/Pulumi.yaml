@@ -1,0 +1,12 @@
+name: s3
+description: A module to manage s3 buckets
+runtime:
+   name: nodejs
+   options:
+      typescript: false
+      packagemanager: npm
+config:
+   pulumi:disable-default-providers: [ "aws" ]
+   pulumi:tags:
+      value:
+         pulumi:template: aws-typescript

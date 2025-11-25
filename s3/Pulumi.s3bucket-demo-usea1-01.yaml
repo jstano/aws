@@ -1,0 +1,7 @@
+encryptionsalt: v1:K/iDYaxXUNo=:v1:CHYy8yb/UjnFbh5w:Tygv9gZSD+tJL9trsNT1EGVSZlokYA==
+config:
+   aws:region: us-east-1
+   s3-bucket:accountId: "271935458059"
+   s3-bucket:accountName: prod
+   s3-bucket:bucketAppName: mnt
+   s3-bucket:environment: demo

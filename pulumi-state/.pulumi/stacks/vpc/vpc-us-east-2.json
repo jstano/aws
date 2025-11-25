@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "checkpoint": {
+        "stack": "organization/vpc/vpc-us-east-2",
+        "latest": {
+            "manifest": {
+                "time": "2025-11-24T16:58:52.268032-05:00",
+                "magic": "3f8aa64cde06db0b52c10b5277c92190c3eb4c44ddf843f947365003ffee820a",
+                "version": "v3.208.0"
+            },
+            "secrets_providers": {
+                "type": "passphrase",
+                "state": {
+                    "salt": "v1:18HvZeHWa7A=:v1:WQ48LCtgaxEFeXEZ:6aMX93nF0fjnaQ0InpWNbZjvUgbWfw=="
+                }
+            },
+            "metadata": {}
+        }
+    }
+}
